@@ -1,1 +1,1 @@
-# Boston_House_Price_Regression
+# Boston House_Price Prediction using Linear Regression
